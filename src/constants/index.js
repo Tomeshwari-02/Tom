@@ -117,7 +117,7 @@ const technologies = [
 const experiences = [
   {
     title: "Java Developer",
-    //company_name: "Starbucks",
+    
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2024 - April 2024",
@@ -130,7 +130,7 @@ const experiences = [
   },
   {
     title: "Gesture Genius",
-    //company_name: "Tesla",
+    
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Nov 2024 - Jan 2025",
